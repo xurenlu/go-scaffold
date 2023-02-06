@@ -1,1 +1,1 @@
-web: go-app
+web: go-getting-started
